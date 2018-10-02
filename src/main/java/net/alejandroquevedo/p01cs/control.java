@@ -66,6 +66,8 @@ public class control extends HttpServlet {
             out.println("</body>");
             out.println("</html>");
         }
+        
+        //prueba de commit
     }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
